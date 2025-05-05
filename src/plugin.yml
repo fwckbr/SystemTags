@@ -1,0 +1,7 @@
+name: NTag
+main: br.nextdev.tag.Main
+author: NextDev
+version: 1.0
+commands:
+  tag:
+  tags:
